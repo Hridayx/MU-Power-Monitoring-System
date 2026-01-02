@@ -4,7 +4,22 @@
 
 **Built for Mahindra University's Smart Campus Initiative**
 ---
+---
+## Screenshots
 
+### Dashboard (Light Mode)
+![Dashboard Light](deployment/screenshots/Dashboard.png)
+
+### Dashboard (Dark Mode)
+![Dashboard Dark](deployment/screenshots/Dashboard_Dark.png)
+
+### 1-Hour Forecast
+![1hr Forecast](deployment/screenshots/1hr.png)
+
+### 3-Hour Forecast
+![3hr Forecast](deployment/screenshots/3hr.png)
+
+---
 ## Overview
 
 The **Mahindra University Power Monitoring System** is the official energy management platform for campus infrastructure, providing real-time monitoring and predictive analytics for proactive grid management.
