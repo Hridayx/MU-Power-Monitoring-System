@@ -5,7 +5,7 @@
 **Built for Mahindra University's Smart Campus Initiative**
 ---
 ---
-## Screenshots
+## Web-Dashboard
 
 ### Dashboard (Light Mode)
 ![Dashboard Light](deployment/screenshots/Dashboard.png)
