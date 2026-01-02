@@ -1,6 +1,6 @@
-# Mahindra University Power Monitoring System
+# Mahindra University's Power Monitoring System
 
-**Official Real-time Power Monitoring and Outage Forecasting Platform**
+**Official Real-time Power Monitoring and Outage Forecasting Platform for MU**
 
 **Built for Mahindra University's Smart Campus Initiative**
 ---
